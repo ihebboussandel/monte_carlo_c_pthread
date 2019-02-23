@@ -1,3 +1,13 @@
+/*
+ ============================================================================
+ Name        : tp_c_calcparll_pi_grafix.c
+ Author      :med iheb
+ Version     :1
+ Copyright   : Your copyright notice
+ Description : pthread in C,gnuplot
+ ============================================================================
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
